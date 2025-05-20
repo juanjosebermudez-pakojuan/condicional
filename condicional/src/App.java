@@ -1,0 +1,19 @@
+ import java.util.scanner;
+ 
+ public class app{
+     run|debug
+     public static void public static void main(String[] args) throws exception {
+         system.out.System.out.println(x:"holamundo");
+         
+         try(scanner scanner = new scanner(system.in)){
+        int n=scanner.next.int();
+         int m=scanner.next.int();
+         if (n%2==0 && m%2==0){
+         system.out.println(x:"n y m son par");
+     } else if (n%2!=0 && m%2==0){
+         system.out.println(x:"solo m es par");
+     }else if (n%2=0 && m%2!==0){
+         system.out.println(x:"solo n es par");
+        
+    }
+ }                                                                                                                                           
